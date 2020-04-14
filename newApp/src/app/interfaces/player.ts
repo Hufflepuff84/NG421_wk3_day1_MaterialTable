@@ -1,6 +1,7 @@
 export interface Player {
-    name:string,
+id: number,
+name: string,
 position: string,
-nationality:string
-number: number
+number: number,
+nationality: string
 }
